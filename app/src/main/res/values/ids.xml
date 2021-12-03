@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="name_info" type="id" />
+    <item name="description_info" type="id" />
+    <item name="del_menu_item" type="id" />
+    <item name="price_info" type="id" />
+    <item name="quantity_info" type="id" />
+    <item name="alert_quantity_info" type="id" />
+</resources>

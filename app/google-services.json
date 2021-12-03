@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "174711184248",
+    "project_id": "ifeproject",
+    "storage_bucket": "ifeproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174711184248:android:d0f5c6e2a428b90554868d",
+        "android_client_info": {
+          "package_name": "com.insti.ife.monpremierprojet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174711184248-99nsf1t08tk9pp8fhjdf8jp0kuctebta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insti.ife.monpremierprojet",
+            "certificate_hash": "4185419c201dd7025421d20326eb473f09fd8598"
+          }
+        },
+        {
+          "client_id": "174711184248-uthoslh8lsbc78ci835d8l7lpb6nfbsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJMVsWX86Wq9t-NdoL4sCE0SLpH3TvUIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174711184248-uthoslh8lsbc78ci835d8l7lpb6nfbsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
